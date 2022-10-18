@@ -7,7 +7,6 @@ insights
 3.The ratings_numerator less than 3 seems to be not dogs which implies the algorithm for predicting the breed of the dog is not efficient
 
 visualisation
-image.png
 
 most of the ratings lie in the range 0f 10 and 15
 
@@ -17,4 +16,5 @@ the some values seeems to be ambiguous
 
 the values should be replaced with the median
 
-image.png
+
+
